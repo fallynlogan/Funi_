@@ -1,4 +1,6 @@
 # Funi
+CSCI 4448 OOAD Project 6
+
 Team Members: Fallyn Logan, Garrett Hempy, Serena Evans Lutterodt
 
 Instructions to Run (with Emulator): 
