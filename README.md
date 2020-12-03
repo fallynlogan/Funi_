@@ -2,6 +2,7 @@
 Team Members: Fallyn Logan, Garrett Hempy, Serena Evans Lutterodt
 
 Instructions to Run (with Emulator): 
+
 1.Install Android Studio (NOT THE BETA) and make sure virtualization is enabled on your computer. 
 
 2. Download this repository as a ZIP file (do NOT download through VCS on Android Studio, configuration does not download correctly). 
