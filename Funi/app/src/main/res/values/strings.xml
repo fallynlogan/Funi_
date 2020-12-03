@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Funi</string>
+    <string name="titleText">Funi</string>
+    <string name="whatsYourNameText">Whats Your Name?</string>
+    <string name="whatsYourGradeLevelText">Whats Your Grade Level?</string>
+    <string name="pickSubjectText">What Subject Would You Like to Learn?</string>
+    <string name="editTextHint">ex. Captain Underpants</string>
+    <string name="startRadioMath">Math</string>
+    <string name="startRadioReading">Reading</string>
+    <string name="startButtonText">Start Quiz!</string>
+    <string name="checkAnswer">Check Answer</string>
+    <string name="tryAgainButton">Try Again</string>
+    <string name="startOverButton" > Start Over</string>
+    <string name="gameOverText">Game Over</string>
+    <string name="questionimage">questionImage</string>
+    <string name="switchSubjectButtonText">Switch Subject</string>
+    <string-array name="gradeLevels">
+        <item>pre-school</item>
+        <item>kindergarten</item>
+        <item>1st grade</item>
+        <item>2nd grade</item>
+        <item>3rd grade</item>
+    </string-array>
+</resources>
