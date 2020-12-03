@@ -69,7 +69,7 @@ import kotlinx.android.synthetic.main.activity_quiz.*
                 "kindergarten" -> quiz = KindergartenReadingDecorator(chosenQuiz)
                 "1st grade" -> quiz = FirstgradeReadingDecorator(chosenQuiz)
                 "2nd grade" -> quiz = SecondgradeReadingDecorator(chosenQuiz)
-                //"3rd grade" -> quiz = ThirdgradeReadingDecorator(chosenQuiz)
+                "3rd grade" -> quiz = ThirdgradeReadingDecorator(chosenQuiz)
             }
             "Math" -> when (gradeLevel) {
                 "pre-school" -> quiz = PreschoolMathDecorator(chosenQuiz)
