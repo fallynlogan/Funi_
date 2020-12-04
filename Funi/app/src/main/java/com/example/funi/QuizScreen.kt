@@ -1,7 +1,6 @@
 package com.example.funi
 
-import android.text.Editable
-
+//MVC
 data class QuizScreen(var name:CharSequence = "", var gradeLevel:String = "", var subject:String = "") {
     fun quiz(position:Int, text:String, quizSubject: CharSequence)
     {

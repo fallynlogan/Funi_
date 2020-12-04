@@ -92,6 +92,7 @@ class EndActivity : AppCompatActivity() {
     //source: https://www.tutorialspoint.com/android/android_alert_dialoges.htm
     private fun showAlert() {
         if (popUpShown) { return }
+        //Builder pattern 
         val alertDialogBuilder = AlertDialog.Builder(this)
         alertDialogBuilder.setTitle("Congratulations, $name!")
         alertDialogBuilder.setMessage("Would you like to add your name to the Funi leader board?")

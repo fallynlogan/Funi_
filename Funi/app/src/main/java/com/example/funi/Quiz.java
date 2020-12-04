@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Quiz implements QuizInterface {
     public ArrayList<Question> questions = new ArrayList<>();
+    //iterator pattern
     Iterator<Question> it;
     private Question q;
     public boolean hasEnded = false;

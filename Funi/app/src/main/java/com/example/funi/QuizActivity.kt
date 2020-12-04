@@ -14,6 +14,7 @@ import kotlinx.android.synthetic.main.activity_quiz.*
      private var q: Question? = null
      private var myEndScreen = EndScreen()
      private var quiz: QuizInterface? = null
+     //observer pattern
      private var observer: QuizObserver? = null
      private var endTime : Double? = null
      private var pauseTime : Long? = null
@@ -65,6 +66,7 @@ import kotlinx.android.synthetic.main.activity_quiz.*
           var chosenQuiz = Quiz()
           when(subject) {
           "Reading" -> when (gradeLevel) {
+              //decorator pattern
                 "pre-school" -> quiz = PreschoolReadingDecorator(chosenQuiz)
                 "kindergarten" -> quiz = KindergartenReadingDecorator(chosenQuiz)
                 "1st grade" -> quiz = FirstgradeReadingDecorator(chosenQuiz)
