@@ -3,7 +3,7 @@ CSCI 4448 OOAD Project 6
 
 Team Members: Fallyn Logan, Garrett Hempy, Serena Evans Lutterodt
 
-Project 6: Semester Project Write Up: Located above in Funi_
+Project 6: Semester Project Write Up: Located Above in Funi_ Master Branch
 
 Project Video: https://youtu.be/jFdkYWE7nr0
 
