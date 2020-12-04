@@ -3,6 +3,10 @@ CSCI 4448 OOAD Project 6
 
 Team Members: Fallyn Logan, Garrett Hempy, Serena Evans Lutterodt
 
+
+Project Video: https://youtu.be/jFdkYWE7nr0
+
+
 Instructions to Run (with Emulator): 
 
 1.Install Android Studio (NOT THE BETA) and make sure virtualization is enabled on your computer. 
